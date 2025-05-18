@@ -1357,6 +1357,10 @@ svg.svg_border2.color_gryF  path{
 	padding: 60px 0 170px;
     position: relative;
 }
+.temp_getintouch_wrapper.bg-white{
+	background-color:#fff;
+	padding: 60px 0 70px;
+}
 .temp_contact_form{
 	width:100%;
 	display:inline-block;
